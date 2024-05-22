@@ -9,11 +9,11 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto (nombre)
+**Titulo** : MI Proyecto (Los Crímenes de la Calle Morgue )
 
 **Web:**   https://    (url github.io)
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  Alba Carrasco Caracuel
 
 **Resumen** : lorem ipsun dolor.... 
 
