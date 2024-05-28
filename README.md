@@ -9,16 +9,16 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto (Los Crímenes de la Calle Morgue )
-https://github.com/AlbaCarrascoCaracuel/CMI24/blob/main/menu%20con%20titulo.jpg
+**Titulo** : Los Crímenes de la Calle Morgue
 
-**Web:**   https://    (url github.io)
+
+**Web:**   https://
 
 **Autor:**  Alba Carrasco Caracuel
 
-**Resumen** : lorem ipsun dolor.... 
+**Resumen** : Se trata de una historia interactiva basada en el relato de Edgar Allan Poe llamado los Crímenes de la Calle Morgue. A lo largo de la historia de asesinato se presentan diversos enigmas para resolver las pistas del crímen. 
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  Historia
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
