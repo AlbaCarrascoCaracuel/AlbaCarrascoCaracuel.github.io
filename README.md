@@ -20,19 +20,19 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Estilo/género:**  Historia
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : https://github.com/AlbaCarrascoCaracuel/AlbaCarrascoCaracuel.github.io/blob/main/Cuervo2.png
 
-(insertar imágenes a resolucion de 100px alto)
+Se utiliza la imagen del cuervo ya que es una figura recurrente de Edgar Allan Poe en muchas de sus obras. Es su sello de identidad.
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Resolución:** 800x600px 
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**  Google Chrome y teléfono móvil.
 
-**Tamaño proyecto:** XXMB 
+**Tamaño proyecto:** 11,2 MB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : xx/xx/2024
+**Fecha** : 29/5/2024
 
 **Medios** (donde se tiene presencia relacionada):
 
@@ -41,7 +41,6 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 - Instagram
 
 
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
 
 # 2. Memoria del proyecto 
 
