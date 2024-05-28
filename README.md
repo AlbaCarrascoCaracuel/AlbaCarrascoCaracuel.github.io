@@ -46,9 +46,7 @@ Se utiliza la imagen del cuervo ya que es una figura recurrente de Edgar Allan P
 
 ### 2.1 Storyboard: 
 
-
-
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+https://github.com/AlbaCarrascoCaracuel/AlbaCarrascoCaracuel.github.io/blob/main/Storyboard.pdf
 
 
 
