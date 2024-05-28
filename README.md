@@ -48,6 +48,7 @@ Se utiliza la imagen del cuervo ya que es una figura recurrente de Edgar Allan P
 
 https://github.com/AlbaCarrascoCaracuel/AlbaCarrascoCaracuel.github.io/blob/main/Storyboard.pdf
 
+https://github.com/AlbaCarrascoCaracuel/AlbaCarrascoCaracuel.github.io/blob/main/Diagrama.pdf
 
 
 ### 2.2. Esquema de navegación 
