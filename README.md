@@ -64,22 +64,21 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 ### Etapa 1: Ideación de proyecto
 
-**Investigación de campo** (propuestas inspiradoras para el proyecto)
+**Investigación de campo** 
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
-
+- Inspiración en juegos antiguos de XP.
+- Propuesta basada en el relato de misterio de Edgar Allan Poe.
+  
 
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
-
+Este proyecto pretende hacer una recreación de un relato, llevandolo de la novela a las nuevas tecnologías por medio de una historia interactiva. Se presenta un crimen del cual hay que resolver los diferentes enigmas para llegar a quien es el asesino. Para entender la historia hay que seguir un hilo argumental que hace que sea igual de importante la interaccion del espectador como de los diálogos, mezclando novela e interacción.
 
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a todo aquel que este interesado por las historias de misterio y enigmático.
 
 
 
@@ -87,48 +86,51 @@ Este  proyecto es interesante porque ...
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
-
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
+- Juegos: se presentan distintos juegos, que se han llamado enigmas ya que son los que resuelven el caso. Tenemos un mapa donde tenemos que analizar  que pasa en cada habitación para resolver por donde ha salido el asesino; el enigma de la ventana, cómo se pudo abrir para que el asesino saliese y entrase de a casa; el código secreto de los cajones, que indica que el asesino no robo nada; y por último, adivinar cuál es el arma del crimen.
+- Quizz: para elegir juegos o a modo de adivinanza de la historia.
+- Video: aparece un video corto con el título del proyecto animado con gotas de sangre, realizado con After Effect.
+- Instrucciones y ayuda al usuario: en los juegos aparecen notas que indican pistas para saber que hay que hacer en cada momento.
+- Menús y elementos de navegación: se introducen elementos para la interacción en los juegos y para pasar los diálogos, así como distintos botones permanentes para activar y desactivar el sonido.
+- Galería de imágenes: que presenta imágenes sobre el proyecto, a modo de resumen de la historia.
 
 
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+La resolución del crimenal final del proyecto quizas se resuelva demasiado rápido, pero no quería alargar mucho la prática.
 
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
+Ha sido una actividad divertida de realizar, me ha gustado la idea de combinar un relato con métodos tecnológicos, ya además hacerlo de forma creativa llevando a cabo ideas de diseño. Ha sido una actividad que ha englobado muchos ámbitos en sólo uno (diseño, literatura, programación, animación, música...)
 
+El uso de Hippani ha sido muy frustrante en muchas ocasiones, ya que me ha generado problemas para desarrollar ideas que tenía. Creo que está un poco limitado en la prática par ahacer ciertas cosas. El uso de los botones deslizantes, por ejemplo, hizo que el proyecto tuviese un error de desbordamiento, haciendo que perdiese el proyecto, teniendomelas que ingeniar para recuperarlo. 
 
-
+Otro aspecto positivo ha sido que he retomado la programación y he vuelto a recordar cosas que hacía años que había olvidado.
 
 
 
 
 # 5 Referencias 
 
-**Artículos y blogs ** 
-
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+* Musica:  realizada por grabando un piano con una tarjeta de sonido y editando el audio en Reapers.
+* Imágenes:  realizadas por una IA y en Procreate por mí.
+* Tipografía: la del título es un fotograma del video de After Effect editado en Photoshop. El resto es de Google Font y de las que trae el programa de forma determinada. Copperplate Gothic Bold, Rokkitt y Amatic SC.
 
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
+- Adobe After Effect.
+- Adobe Illustrator.
+- Adobe Photoshop.
+- Adobe Premiere.
+- Procreate.
+- Reapers.
+- Wombo IA.
 
 
 
