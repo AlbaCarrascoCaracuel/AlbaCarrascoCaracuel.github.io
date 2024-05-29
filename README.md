@@ -12,7 +12,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Titulo** : Los Crímenes de la Calle Morgue
 
 
-**Web:**   https://
+**Web:**   https://https://albacarrascocaracuel.github.io/Proyecto%20Terminado/
 
 **Autor:**  Alba Carrasco Caracuel
 
@@ -24,7 +24,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 Se utiliza la imagen del cuervo ya que es una figura recurrente de Edgar Allan Poe en muchas de sus obras. Es su sello de identidad.
 
-**Resolución:** 800x600px 
+**Resolución:** 800x600px tamaño fijo
 
 **Probado en:**  Google Chrome y teléfono móvil.
 
@@ -36,9 +36,8 @@ Se utiliza la imagen del cuervo ya que es una figura recurrente de Edgar Allan P
 
 **Medios** (donde se tiene presencia relacionada):
 
-- Github:
-- Twitter
-- Instagram
+- Github: AlbaCarrascoCaracuel.github.io
+- Instagram: @axdelarge
 
 
 
@@ -48,16 +47,9 @@ Se utiliza la imagen del cuervo ya que es una figura recurrente de Edgar Allan P
 
 https://github.com/AlbaCarrascoCaracuel/AlbaCarrascoCaracuel.github.io/blob/main/Storyboard.pdf
 
-https://github.com/AlbaCarrascoCaracuel/AlbaCarrascoCaracuel.github.io/blob/main/Diagrama.pdf
 
 
 ### 2.2. Esquema de navegación 
-
-
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
-
-
 
 
 
