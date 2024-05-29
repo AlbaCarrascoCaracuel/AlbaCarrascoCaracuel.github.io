@@ -51,6 +51,7 @@ https://github.com/AlbaCarrascoCaracuel/AlbaCarrascoCaracuel.github.io/blob/main
 
 ### 2.2. Esquema de navegación 
 
+https://github.com/AlbaCarrascoCaracuel/AlbaCarrascoCaracuel.github.io/blob/main/Diagrama.jpg
 
 
 
