@@ -12,7 +12,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Titulo** : Los Crímenes de la Calle Morgue
 
 
-**Web:**   https://https://albacarrascocaracuel.github.io/Proyecto%20Terminado/
+**Web:**   https://albacarrascocaracuel.github.io/Proyecto%20Terminado/
 
 **Autor:**  Alba Carrasco Caracuel
 
